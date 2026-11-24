@@ -1,16 +1,49 @@
-## Hi there 👋
+# Sergey Puchkov
 
-<!--
-**puchkovs/puchkovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer · Software Development**
 
-Here are some ideas to get you started:
+I build software applications and explore practical applications of artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work focuses on developing AI-powered tools, experimenting with intelligent agents, and building software systems.
+
+---
+
+### Selected Projects
+
+**[LexReader](https://github.com/puchkovs/lexreader)**
+
+An AI-powered language learning application.
+
+[Live Demo](https://lexreader.vercel.app/home)
+
+**[Hermes Three.js Skills](https://github.com/puchkovs/hermes-threejs-skills)**
+
+A collection of skills for building 3D websites with Three.js.
+
+---
+
+### Areas of Interest
+
+- AI Engineering
+- LLM Applications
+- AI Agents & Agent Architectures
+- Retrieval-Augmented Generation (RAG)
+- Software Architecture
+- Automation Systems
+
+---
+
+### Currently Learning
+
+Exploring AI engineering, software architecture, and modern approaches to building intelligent applications.
+
+---
+
+### Connect
+
+- GitHub: [@puchkovs](https://github.com/puchkovs)
+- Telegram: [@oxso1te](https://t.me/oxso1te)
+
+---
+
+*Building, experimenting, and learning through real projects.*
