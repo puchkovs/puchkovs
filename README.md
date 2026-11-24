@@ -1,41 +1,42 @@
 # Sergey Puchkov
 
-**AI Engineer · Software Development**
+**AI Engineering · Software Development**
 
-I build software applications and explore practical applications of artificial intelligence.
+I build software products and explore how AI systems can be designed, implemented, and used in practice.
 
-My work focuses on developing AI-powered tools, experimenting with intelligent agents, and building software systems.
-
----
-
-### Selected Projects
-
-**[LexReader](https://github.com/puchkovs/lexreader)**
-
-An AI-powered language learning application.
-
-[Live Demo](https://lexreader.vercel.app/home)
-
-**[Hermes Three.js Skills](https://github.com/puchkovs/hermes-threejs-skills)**
-
-A collection of skills for building 3D websites with Three.js.
+My current work includes an AI-powered language learning application and an independent RAG engine.
 
 ---
 
-### Areas of Interest
+## Current Projects
 
-- AI Engineering
-- LLM Applications
-- AI Agents & Agent Architectures
-- Retrieval-Augmented Generation (RAG)
-- Software Architecture
-- Automation Systems
+### [LexReader](https://github.com/puchkovs/lexreader)
+
+An application for learning languages through real-world reading.
+
+Read texts, translate unfamiliar words in context, build a personal vocabulary, and review words with spaced repetition.
+
+[Live application](https://lexreader.vercel.app/home)
+
+### [Independent RAG Engine](https://github.com/puchkovs/independent-rag-engine)
+
+A modular, local-first RAG engine focused on document processing, reliable knowledge retrieval, and evidence-grounded generation.
+
+**Current development:** document ingestion, source discovery, change detection, persistent processing queues, parsing, and chunking. Retrieval and generation are planned for later stages.
 
 ---
 
-### Currently Learning
+## Other Projects
 
-Exploring AI engineering, software architecture, and modern approaches to building intelligent applications.
+- [HinkoK OS](https://github.com/puchkovs/hinkok-os) — a personal AI operating system with memory, integrations, and grounded knowledge retrieval.
+- [Second Brain Telegram](https://github.com/puchkovs/second-brain-telegram) — a Telegram knowledge assistant for documents, web pages, YouTube transcripts, and questions over a personal knowledge base.
+- [AI SRE Agent](https://github.com/puchkovs/ai-sre-agent) — a project exploring AI-assisted server monitoring and recovery.
+
+---
+
+## Technical Interests
+
+AI agents · LLM applications · RAG architectures · Knowledge systems · Software architecture
 
 ---
 
