@@ -1,50 +1,30 @@
 # Sergey Puchkov
 
-**AI Engineering · Software Development**
+AI Engineering · Machine Learning · LLM Systems
 
-I build software products and explore how AI systems can be designed, implemented, and used in practice.
+I build software products and AI systems, with a focus on understanding how their components work and fit together. My interests include model internals, retrieval, AI agents, and reliable engineering: explicit contracts, reproducible experiments, and clear failure handling. My projects range from independently implemented learning algorithms and a small language model to document ingestion infrastructure and an application for language learning.
 
-My current work includes an AI-powered language learning application and an independent RAG engine.
+## Selected Projects
 
----
+| Project | Focus |
+| --- | --- |
+| [ML Core](https://github.com/puchkovs/ML-Core) | Independently implemented classical ML algorithms in NumPy, with explicit numerical contracts and reproducible evaluation. |
+| [LLM Core](https://github.com/puchkovs/LLM-Core) | A compact experimental language model with a custom tokenizer, causal Transformer, CPU training, and evaluation. |
+| [Independent RAG Engine](https://github.com/puchkovs/independent-rag-engine) | A modular, local-first engine with document ingestion, parsing, chunking, embeddings, and FTS5 indexing; retrieval and generation are planned. |
+| [LexReader](https://github.com/puchkovs/lexreader) | A language-learning application combining reading, contextual translation, a personal vocabulary, and spaced repetition. |
 
-## Current Projects
+Across these projects, I use explicit interfaces, tests, and documented limitations to make behavior easier to inspect and experiments easier to reproduce.
 
-### [LexReader](https://github.com/puchkovs/lexreader)
+## Technical Focus
 
-An application for learning languages through real-world reading.
+Areas I study and develop through projects, including interests beyond the currently implemented features:
 
-Read texts, translate unfamiliar words in context, build a personal vocabulary, and review words with spaced repetition.
+- ML fundamentals and numerical computing.
+- Language models, training and evaluation.
+- Retrieval and knowledge systems.
+- AI agents, tool use and reliable workflows.
 
-[Live application](https://lexreader.vercel.app/home)
-
-### [Independent RAG Engine](https://github.com/puchkovs/independent-rag-engine)
-
-A modular, local-first RAG engine focused on document processing, reliable knowledge retrieval, and evidence-grounded generation.
-
-**Current development:** document ingestion, source discovery, change detection, persistent processing queues, parsing, and chunking. Retrieval and generation are planned for later stages.
-
----
-
-## Other Projects
-
-- [HinkoK OS](https://github.com/puchkovs/hinkok-os) — a personal AI operating system with memory, integrations, and grounded knowledge retrieval.
-- [Second Brain Telegram](https://github.com/puchkovs/second-brain-telegram) — a Telegram knowledge assistant for documents, web pages, YouTube transcripts, and questions over a personal knowledge base.
-- [AI SRE Agent](https://github.com/puchkovs/ai-sre-agent) — a project exploring AI-assisted server monitoring and recovery.
-
----
-
-## Technical Interests
-
-AI agents · LLM applications · RAG architectures · Knowledge systems · Software architecture
-
----
-
-### Connect
+## Contacts
 
 - GitHub: [@puchkovs](https://github.com/puchkovs)
 - Telegram: [@oxso1te](https://t.me/oxso1te)
-
----
-
-*Building, experimenting, and learning through real projects.*
